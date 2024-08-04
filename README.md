@@ -10,11 +10,9 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
 ### Outras linguagens e ferramentas familiares: ### 
- ![Skills](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <p>
    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skills"/>
-   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-   <img src="" alt="Skills"/>
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Skills"/>
    <img src="" alt="Skills"/>
    <img src="" alt="Skills"/>
    <img src="" alt="Skills"/>
