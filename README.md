@@ -1,4 +1,4 @@
-### Olá! Eu sou o George Novelli Tarlazis 🔥 ###
+### Olá! Eu sou o George Novelli Tarlazis :D 🔥 ###
 
 ### Linguagens e Frameworks: ### 
 <p>
