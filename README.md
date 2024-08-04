@@ -19,8 +19,9 @@
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Skills"/>
    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Skills"/>
    <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Skills"/>
+  
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Skills"/>
-   <img src="" alt="Skills"/>
+   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Skills"/>
    <img src="" alt="Skills"/>
    <img src="" alt="Skills"/>
    <img src="" alt="Skills"/>
