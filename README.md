@@ -1,5 +1,6 @@
 ### Olá! Eu sou o George Novelli Tarlazis 🔥 ###
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1&count_weight=1)
 
 ### Linguagens e Frameworks: ### 
