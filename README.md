@@ -9,7 +9,15 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Skills"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
-  ### Outras ferramentas familiares: ### 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills" style="margin: 0; padding: 0;"/>
+### Outras linguagens e ferramentas familiares: ### 
+<p>
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Skills"/>
+   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+   <img src="" alt="Skills"/>
+   <img src="" alt="Skills"/>
+   <img src="" alt="Skills"/>
+   <img src="" alt="Skills"/>
+   <img src="" alt="Skills"/>
+</p>
 
  
