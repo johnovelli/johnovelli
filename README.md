@@ -29,4 +29,4 @@
    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Skills"/>
 </p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1&count_weight=1)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1.5&count_weight=1.5)
