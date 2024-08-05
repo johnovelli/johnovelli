@@ -1,5 +1,7 @@
 ### Olá! Seja bem-vindo(a) 😄 ###
-### Sou o George Novelli Tarlazis, desenvolvedor full-stack: ###
+### Sou o George Novelli Tarlazis, desenvolvedor full-stack ###
+
+<br/>
 
 ### Linguagens e Frameworks que costumo usar: ### 
 <p>
