@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Skills"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
-
-
 ### Outras linguagens, frameworks e ferramentas familiares: ###
 <p>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Skills"/>
@@ -29,9 +27,7 @@
 </p>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1.5&count_weight=1.5)
-
-### Entre em contato: ###
-<p>### Entre em contato: ###
+<p>Entre em contato:
   <a href="https://www.linkedin.com/in/joh-novelli/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
