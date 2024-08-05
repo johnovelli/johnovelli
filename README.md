@@ -28,11 +28,13 @@
    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Skills"/>
 </p>
 
-
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1.5&count_weight=1.5)
- <p>
-   ### Entre em contato: ###
-   
-   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joh-novelli/)
- </p>
+
+### Entre em contato: ###
+<p>### Entre em contato: ###
+  <a href="https://www.linkedin.com/in/joh-novelli/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
