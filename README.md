@@ -1,5 +1,4 @@
-### Olá! Seja bem-vindo(a) 😄 ###
-### Sou o George Novelli Tarlazis, desenvolvedor full-stack ###
+### Olá, seja bem-vindo(a), sou o George Novelli Tarlazis, desenvolvedor full-stack 😄 ###
 
 <br/>
 
