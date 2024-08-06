@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄 ###
+## Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄 ##
 ####  Sou desenvolvedor full-stack com foco em back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. #### 
 
 - #### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ####
@@ -11,7 +11,7 @@
 
 
   
-####  Linguagens e Frameworks que costumo usar: ####  
+### Linguagens e Frameworks que costumo usar: ### 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Skills"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
 
-####  Outras linguagens, frameworks e ferramentas familiares: #### 
+### Outras linguagens, frameworks e ferramentas familiares: ###
 <p>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Skills"/>
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Skills"/>
