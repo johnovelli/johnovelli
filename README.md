@@ -6,7 +6,7 @@
     ### <li>Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.</li> ###
     <li>Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.</li>
     ### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ###
-    ### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ###                                                                   
+    - ### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ###                                                                   
   </ul>
  - Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.
   
