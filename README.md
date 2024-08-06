@@ -1,10 +1,9 @@
 <h2>Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄</h2>
-<h3> Sou desenvolvedor full-stack com foco em back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. </h3>
+<h3> Sou desenvolvedor full-stack como foco o back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. </h3>
+<h4> Minhas áreas de especialização incluem: </h4>
 
 - <h4> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. </h4>
 
-- <h4> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring </h4>
-  
 - <h4> Implemento testes automatizados e segurança em APIs. </h4>
   
 - <h4> Crio interfaces dinâmicas e responsivas com React e TypeScript. </h4>
