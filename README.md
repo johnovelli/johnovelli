@@ -4,7 +4,6 @@
 <div style="line-height: 1.2; font-size: 1.1em; font-weight: bold;">
   
 - #### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ####
-  
 - #### Implemento testes automatizados e segurança em APIs. ####
   
 - Crio interfaces dinâmicas e responsivas com React e TypeScript.
