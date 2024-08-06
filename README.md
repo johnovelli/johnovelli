@@ -2,13 +2,13 @@
 ### Sou desenvolvedor full-stack com foco em back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. ###
 <div style="line-height: 1.2; font-size: 1.5em; font-weight: bold;">
   
-- <p style="line-height: 1.2; font-size: 1.5em; font-weight: bold;> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.</p>
+- #### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. ####
 
-- <p style="line-height: 1.2; font-size: 1.8em; font-weight: bold;> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.</p>
+- #### Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring ####
   
-- Implemento testes automatizados e segurança em APIs.
+- #### Implemento testes automatizados e segurança em APIs. ####
   
-- Crio interfaces dinâmicas e responsivas com React e TypeScript.
+- #### Crio interfaces dinâmicas e responsivas com React e TypeScript. ####
   
 - Colaboro com equipes multifuncionais.
 </div>
