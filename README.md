@@ -9,7 +9,7 @@
   
 - <h4> Crio interfaces dinâmicas e responsivas com React e TypeScript. </h4>
 
-<h3 style="margin-top: 50px;"> Linguagens e Frameworks que costumo usar: </h3>
+<h3> Linguagens e Frameworks que costumo usar: </h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Skills"/>
