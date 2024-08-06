@@ -5,7 +5,7 @@
   
 - Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring.
   
-- Implemento testes automatizados e segurança em APIs.
+#### - Implemento testes automatizados e segurança em APIs. ####
   
 - Crio interfaces dinâmicas e responsivas com React e TypeScript.
   
