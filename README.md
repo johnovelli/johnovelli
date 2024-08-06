@@ -9,7 +9,7 @@
   
 - #### Crio interfaces dinâmicas e responsivas com React e TypeScript. ####
 
-</br>
+
   
 ####  Linguagens e Frameworks que costumo usar: ####  
 <p>
