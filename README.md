@@ -1,15 +1,15 @@
 <h2> Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄 </h2>
 <h3> Sou desenvolvedor full-stack com foco em back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. </h3>
 
-- <h3> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. </h3>
+- <h4> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring. </h4>
 
-- <h3> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring </h3>
+- <h4> Desenvolvo e otimizo APIs RESTful usando Node.js e Java Spring </h4>
   
-- <h3> Implemento testes automatizados e segurança em APIs. </h3>
+- <h4> Implemento testes automatizados e segurança em APIs. </h4>
   
-- <h3> Crio interfaces dinâmicas e responsivas com React e TypeScript. </h3>
+- <h4> Crio interfaces dinâmicas e responsivas com React e TypeScript. </h4>
 
-<h2> Linguagens e Frameworks que costumo usar: </h2>
+<h3> Linguagens e Frameworks que costumo usar: </h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Skills"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
 
-<h2> Outras linguagens, frameworks e ferramentas familiares: </h2>
+<h3> Outras linguagens, frameworks e ferramentas familiares: </h3>
 <p>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Skills"/>
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Skills"/>
