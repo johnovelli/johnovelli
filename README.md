@@ -3,12 +3,10 @@
 
 <h3>Minhas principais competências incluem </h3>
 
-- <h4>Desenvolvimento e consumo de APIs REST.</h4>
-- <h4>Criação, segurança e gerenciamento de operações CRUD.</h4>
-- <h4>Implementação de testes automatizados.</h4>
-- <h4>Criação de interfaces dinâmicas e responsivas.</h4>
-
-<h3>Antes de fazer a transição para a carreira de desenvolvedor full-stack, construí uma carreira de 8 anos em eventos corporativos, onde iniciei do zero até me tornar técnico de vídeo e streaming de eventos ao vivo. Essa experiência aprimorou minhas habilidades em aprender novas tecnologias, gerenciamento de projetos, resolução de problemas e comunicação eficaz, que são significativas para o desenvolvimento de software.</h3>
+- <h3>Desenvolvimento e consumo de APIs REST.</h3>
+- <h3>Criação, segurança e gerenciamento de operações CRUD.</h3>
+- <h3>Implementação de testes automatizados.</h3>
+- <h3>Criação de interfaces dinâmicas e responsivas.</h3>
 
 <h2>Linguagens e Frameworks que costumo usar:</h2>
 <p>
