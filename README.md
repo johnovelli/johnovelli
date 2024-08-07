@@ -2,7 +2,7 @@
 <h3> Sou desenvolvedor full-stack como foco o back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. </h3>
 <h4> Minhas principais competências incluem: </h4>
 
-- <h4>Desenvolvimento e consumo de APIs RESTful.</h4>
+- <h4>Desenvolvimento e consumo de APIs REST.</h4>
 
 - <h4>Criação, segurança e gerenciamento de operações CRUD.</h4>
   
