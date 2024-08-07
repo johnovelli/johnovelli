@@ -1,4 +1,4 @@
-<h2>Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄</h2>
+<h2>Olá, seja bem-vindo(a)! 😄</h2>
 <h3>Sou desenvolvedor full-stack como foco o back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. Minhas principais competências incluem:</h3>
 
 - <h3>Desenvolvimento e consumo de APIs REST.</h3>
