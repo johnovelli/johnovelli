@@ -3,8 +3,8 @@
 
 <h3>Minhas principais competências incluem </h3>
 
-- <h3>Desenvolvimento e consumo de APIs REST.</h3>
-- <h3>Criação, segurança e gerenciamento de operações CRUD.</h3>
+- <h4>Desenvolvimento e consumo de APIs REST.</h4>
+- <h4>Criação, segurança e gerenciamento de operações CRUD.</h4>
 - <h3>Implementação de testes automatizados.</h3>
 - <h3>Criação de interfaces dinâmicas e responsivas.</h3>
 
