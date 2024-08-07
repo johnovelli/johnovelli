@@ -36,7 +36,7 @@
 </p>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnovelli&layout=compact&size_weight=1.5&count_weight=1.5)
-### Entre em contato: ###
+<h2> Entre em contato:  </h2>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joh-novelli/)
 
 
