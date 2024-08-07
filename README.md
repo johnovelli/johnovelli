@@ -1,6 +1,5 @@
 <h2>Olá, seja bem-vindo(a)! Me chamo George Novelli Tarlazis😄</h2>
 <h3> Sou desenvolvedor full-stack como foco o back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. </h3>
-<h3>Antes de fazer a transição para a carreira de desenvolvedor full-stack, construí uma carreira de 8 anos em eventos corporativos, onde iniciei do zero até me tornar técnico de vídeo e streaming de eventos ao vivo. Essa experiência aprimorou minhas habilidades em aprender novas tecnologias, gerenciamento de projetos, resolução de problemas e comunicação eficaz, que são significativas para o desenvolvimento de software.</h3>
 <h4> Minhas principais competências incluem: </h4>
 
 - <h4>Desenvolvimento e consumo de APIs REST.</h4>
@@ -12,6 +11,9 @@
 - <h4>Criação de interfaces dinâmicas e responsivas.</h4>
 
 <h3> Linguagens e Frameworks que costumo usar: </h3>
+
+<h3>Antes de fazer a transição para a carreira de desenvolvedor full-stack, construí uma carreira de 8 anos em eventos corporativos, onde iniciei do zero até me tornar técnico de vídeo e streaming de eventos ao vivo. Essa experiência aprimorou minhas habilidades em aprender novas tecnologias, gerenciamento de projetos, resolução de problemas e comunicação eficaz, que são significativas para o desenvolvimento de software.</h3>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Skills"/>
