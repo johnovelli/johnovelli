@@ -4,17 +4,13 @@
 <h3> Minhas principais competências incluem: </h3>
 
 - <h3>Desenvolvimento e consumo de APIs REST.</h3>
-
 - <h3>Criação, segurança e gerenciamento de operações CRUD.</h3>
-  
 - <h3>Implementação de testes automatizados.</h3>
-
 - <h3>Criação de interfaces dinâmicas e responsivas.</h3>
 
 <h3>Antes de fazer a transição para a carreira de desenvolvedor full-stack, construí uma carreira de 8 anos em eventos corporativos, onde iniciei do zero até me tornar técnico de vídeo e streaming de eventos ao vivo. Essa experiência aprimorou minhas habilidades em aprender novas tecnologias, gerenciamento de projetos, resolução de problemas e comunicação eficaz, que são significativas para o desenvolvimento de software.</h3>
-</br>
-<h3> Linguagens e Frameworks que costumo usar: </h3>
 
+<h4> Linguagens e Frameworks que costumo usar: </h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Skills"/>
@@ -23,7 +19,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Skills"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skills"/>
 </p>
-<h3> Outras linguagens, frameworks e ferramentas familiares: </h3>
+
+<h4> Outras linguagens, frameworks e ferramentas familiares: </h4>
 <p>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Skills"/>
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Skills"/>
