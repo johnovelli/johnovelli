@@ -7,7 +7,7 @@
 - <h3>Criação, segurança e gerenciamento de operações CRUD.</h3>
 - <h3>Implementação de testes automatizados.</h3>
 - <h3>Criação de interfaces dinâmicas e responsivas.</h3>
-
+<br/>
 <h2>Linguagens e Frameworks que costumo usar:</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
