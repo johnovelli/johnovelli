@@ -1,10 +1,10 @@
 <h2>Olá, seja bem-vindo(a)! 😄</h2>
 <h3>Sou desenvolvedor full-stack como foco o back-end. Tenho experiência na construção de aplicações utilizando JavaScript, TypeScript, React, Node.js, Java e Spring. Minhas principais competências incluem:</h3>
 
-- <h3>Desenvolvimento e consumo de APIs REST.</h3>
-- <h3>Criação, segurança e gerenciamento de operações CRUD.</h3>
-- <h3>Implementação de testes automatizados.</h3>
-- <h3>Criação de interfaces dinâmicas e responsivas.</h3>
+- <h4>Desenvolvimento e consumo de APIs REST.</h4>
+- <h4>Criação, segurança e gerenciamento de operações CRUD.</h4>
+- <h4>Implementação de testes automatizados.</h4>
+- <h4>Criação de interfaces dinâmicas e responsivas.</h4>
 
 <h2>Linguagens e Frameworks que costumo usar:</h2>
 <p>
