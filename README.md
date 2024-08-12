@@ -6,6 +6,7 @@
 - <h4>Implementação de testes automatizados.</h4>
 - <h4>Criação de interfaces dinâmicas e responsivas.</h4>
 
+
 <h2>Linguagens e Frameworks que costumo usar:</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Skills"/>
